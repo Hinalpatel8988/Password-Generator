@@ -1,4 +1,4 @@
-03 JavaScript: Password Generator
+# JavaScript: Password Generator
 
 
 Submission The URL of the deployed application. - 
